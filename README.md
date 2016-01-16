@@ -50,7 +50,7 @@ See news and other projects on my [blog][2]
 [1]: http://www.wemos.cc/wiki/doku.php?id=en:d1_mini
 [2]: https://hallard.me
 [3]: https://github.com/thibdct/programmateur-fil-pilote-wifi/tree/master/Logiciel/remora
-[4]: https://oshpark.com/shared_projects/rnk2lmmh
+[4]: https://oshpark.com/shared_projects/5sAC9l7e
 [5]: https://www.adafruit.com/product/2471
 [6]: https://www.olimex.com/Products/IoT/MOD-WIFI-ESP8266-DEV/
 [7]: http://digistump.com/products/145
